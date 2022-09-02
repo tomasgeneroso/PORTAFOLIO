@@ -1,7 +1,6 @@
-# PORTFOLIO
 Hi! I'm Tomas Generoso, I like programming and design. I stand out for the predisposition to do whatever comes my way and the perseverance to reach the goal.
 
-I am Fullstack Web Developer Jr. (MERN Stack) and UX/UI Designer Jr.
+I am Fullstack Web Developer Jr. (MERN Stack) and CEO in a appmobile.
 
 I studied up to 3rd year of Systems Engineering (National Technological University) and I take courses and read with great pleasure, day by day, articles to educate myself on the world of coding.
 
