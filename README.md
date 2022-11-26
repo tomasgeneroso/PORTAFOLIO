@@ -1,11 +1,16 @@
-Hi! I'm Tomas Generoso, I like programming and design. I stand out for the predisposition to do whatever comes my way and the perseverance to reach the goal.
+Hello! I'm Tomás Generoso, I like programming and design. I stand out for the predisposition to do what comes my way and the perseverance to reach the goal.
+I'm a Fullstack Web Developer Jr. (MERN Stack), UX/UI Designer Jr and CEO of a mobile app.
 
-I am Fullstack Web Developer Jr. (MERN Stack) and CEO in a appmobile.
+I studied until 3rd year of Systems Engineering (National Technological University).
+Currently I teach myself with great pleasure, day by day, in a self-taught way, through courses and documentation.
 
-I studied up to 3rd year of Systems Engineering (National Technological University) and I take courses and read with great pleasure, day by day, articles to educate myself on the world of coding.
+I really like English. I have traveled for almost 6 months in the US, where I significantly improved my English.
 
-I really like English. I've traveled for almost 6 months in the USA, where I significantly improved my English.
+My dream is to reach the top of programming and that is why I study and practice every day with great enthusiasm.
 
-My dream is to reach the top of programming and that is why I study and practice every day with great enthusiasm. That is why I am willing to give all my desire and knowledge to do my best wherever I play.
+I have the papers ready to process my Italian citizenship.
 
-Link appmobile design in figma:  https://www.figma.com/file/0mKoJHHzZfUOlOoLpZ3Bhu/PROYECTO-1-FIGMA-(Community)?node-id=0%3A1
+Github: https://github.com/tomasgeneroso/PORTAFOLIO
+Linkedin: https://www.linkedin.com/in/tomas-generoso/
+
+Greetings and thank you very much!
