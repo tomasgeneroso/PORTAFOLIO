@@ -1,4 +1,4 @@
-!!!!!!!!\\\\******\\\\ IN RESTORATION ////******////!!!!!!!!
+!!!!!!!!\\\\\\******\\\\\\ IN RESTORATION ////******////!!!!!!!!
 
 Hello! I'm Tomás Generoso, I like programming and design. I stand out for the predisposition to do what comes my way and the perseverance to reach the goal.
 I'm a Fullstack Web Developer Jr. (MERN Stack), UX/UI Designer Jr and CEO of a mobile app.
