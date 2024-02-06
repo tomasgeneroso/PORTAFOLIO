@@ -9,6 +9,7 @@ Currently I teach myself with great pleasure, day by day, in a self-taught way, 
 My dream is to reach the top of programming and that is why I study and practice every day with great enthusiasm.
 
 Brief descrition of the elements:
+  
   ->PROYECTOZAIFO: 1st project web page (HTML, CSS, Javascript)
   
   ->PROYECTO 1 FIGMA: 1st frontend project in Figma
