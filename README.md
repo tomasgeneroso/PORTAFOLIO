@@ -10,8 +10,11 @@ My dream is to reach the top of programming and that is why I study and practice
 
 Brief descrition of the elements:
   ->PROYECTOZAIFO: 1st project web page (HTML, CSS, Javascript)
+  
   ->PROYECTO 1 FIGMA: 1st frontend project in Figma
+  
   ->EntregaFinal3: .rar with backend course final project
+  
   ->APP MOBILE.xd: Front-end design in AdobeXD of a first screens for an startup
 
 ->UE citizen
