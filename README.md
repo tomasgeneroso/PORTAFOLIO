@@ -1,7 +1,7 @@
 !!!!!!!!\\\\\\******\\\\\\ IN RESTORATION ////******////!!!!!!!!
 
 Hello! I'm Tomás Generoso, I like programming and design. I stand out for the predisposition to do what comes my way and the perseverance to reach the goal.
-I'm a Fullstack Web Developer Jr. The technologies I use are:  React, MongoDB/PostgreSQL, Express, Typescript, Adobe Creative Cloud, Figma, Git, AWS, jQuery, Jira, Java (basic), Python (basic), C# (basic)
+I'm a Fullstack Web Developer Jr. The technologies I use are:  React, MongoDB/PostgreSQL, Express, Typescript, Adobe Creative Cloud, Figma, Git, AWS, YAML ,jQuery, Jira, Java (basic), Python (basic), C# (basic)
 I speak English (C1), Italian (Basic), Spanish (Native)
 
 I studied until 3rd year of Systems Engineering (National Technological University).
