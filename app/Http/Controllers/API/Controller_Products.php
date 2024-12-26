@@ -1,14 +1,13 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Http\Controllers\API;
 
 use App\Http\Controllers\Controller;
 use App\Models\Table_Products;
 use Illuminate\Http\Request;
-//use Illuminate\Http\RedirectResponse;
+
 class Controller_Products extends Controller
 {
-
     public function getProducts( )
     {
         try {
@@ -27,7 +26,7 @@ class Controller_Products extends Controller
             $newProduct['price'] = $req['price'];
             $newProduct['stock'] = $req['stock'];
             $res = Table_Products::create($newProduct);
-
+            
             return response()->json(data: $newProduct, status: 200);
         } catch (\Throwable $th) {
             return response()->json(data: ['error' => $th->getMessage()], status: 500);
