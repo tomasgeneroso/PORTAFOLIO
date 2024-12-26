@@ -1,11 +1,18 @@
 <?php
 
-use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\Controller_Products;
+use App\Http\Controllers\API\Controller_Products;
 
-Route::prefix("/api")->group(function () {
-    Route::get("/", [Controller_Products::class, "getProducts"]);
-    Route::post("/", [Controller_Products::class, "createProduct"]);
-    Route::put("/", [Controller_Products::class, "updateProduct"]);
-    Route::delete("/", [Controller_Products::class, "deleteProduct"]);
-});
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Route;
+
+// Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
+// return $request->user();
+// });
+
+//doesn't work with ruta/api/getproducts so i just use web.php por the routes
+ Route::controller(Controller_Products::class)->group(function () { 
+     Route::get('/getprods',  'getProducts');
+     Route::post("/",  "createProduct");
+     Route::put("/",  "updateProduct");
+     Route::delete("/", "deleteProduct");
+  });
