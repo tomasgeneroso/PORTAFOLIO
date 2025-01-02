@@ -10,9 +10,9 @@ use Illuminate\Support\Facades\Route;
 // });
 
 //doesn't work with ruta/api/getproducts so i just use web.php por the routes
+Route::post('/addproduct', [Controller_Products::class, 'createProduct']);
  Route::controller(Controller_Products::class)->group(function () { 
-     Route::get('/getprods',  'getProducts');
-     Route::post("/",  "createProduct");
+     Route::get('/',  'getProducts');
      Route::put("/",  "updateProduct");
      Route::delete("/", "deleteProduct");
   });

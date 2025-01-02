@@ -1,19 +1,15 @@
 <?php
-
 namespace App\Http\Controllers\API;
-
 use App\Http\Controllers\Controller;
 use App\Models\Table_Products;
 use Illuminate\Http\Request;
-
+use Illuminate\Support\Facades\Log;
 class Controller_Products extends Controller
 {
     public function getProducts( )
     {
         try {
             $getProducts = Table_Products::all();
-            
-            echo "<script>Products:, $getProducts</script>";
             return response()->json(data: $getProducts, status: 200);
         } catch (\Throwable $th) {
             return response()->json(data: ['error' => $th->getMessage()], status: 500);
@@ -22,11 +18,11 @@ class Controller_Products extends Controller
     public function createProduct(Request $req)
     {
         try {
-            $newProduct['name'] = $req['name'];
-            $newProduct['price'] = $req['price'];
-            $newProduct['stock'] = $req['stock'];
-            $res = Table_Products::create($newProduct);
-            
+            $newProduct=new Table_Products();
+            $newProduct->name = $req->input('name');
+            $newProduct->price= $req->input('price');            
+            $newProduct->stock=$req->input('stock');
+            $newProduct->save();
             return response()->json(data: $newProduct, status: 200);
         } catch (\Throwable $th) {
             return response()->json(data: ['error' => $th->getMessage()], status: 500);
@@ -36,36 +32,46 @@ class Controller_Products extends Controller
     {
         try {
             $idProduct=Table_Products::find($req['id']);
-            $res=$idProduct ? $idProduct->id :null;
+            $res= $idProduct?->id;
             return response()->json($res, 200);
         }catch (\Throwable $th) {
             return response()->json(['error' => $th->getMessage()], 500);
         }
     }
-    public function updateProduct(Request $req)
+    public function incrementStock(Request $req,$id)
     {
-        try {
+        try {            
             $idProduct=$req->input('id');
-            Table_Products::find($idProduct)->update($idProduct);
-            $res=Table_Products::find($idProduct);
-
+            $res=Table_Products::find($idProduct)->increment('stock');
             return response()->json(data: $res, status: 200);
         } catch (\Throwable $th) {
             return response()->json(data: ['error' => $th->getMessage()], status: 500);
         }
     }
-    public function deleteProduct($idProduct){
+    public function decrementStock(Request $req,$id)
+    {
+        try {            
+            $idProduct=$req->input('id');
+            $res=Table_Products::find($idProduct)->decrement('stock');
+            return response()->json(data: $res, status: 200);
+        } catch (\Throwable $th) {
+            return response()->json(data: ['error' => $th->getMessage()], status: 500);
+        }
+    }
+    public function deleteProduct(  $id){
         try{
+            $res=Table_Products::find($id);
+            //$res=Table_Products::destroy($id);
+            Log::info("Resultado de Table_Products::destroy: {res}", ['res'=>$res]);
             
-            $res=Table_Products::destroy($idProduct);
-            if(!$res){
-                
-                return response()->json(['error'=> 'Not product to destroy'], status:500);
+            if($res){
+                $res->delete();
+                return response()->json(data: "Product deleted successfully, $res", status: 200);
             }
-            return response()->json(data: "Product deleted successfully, $res", status: 200);
+            Log::error('Error en eliminar el producto {id}', ['id'=>$id]);
+            return response()->json(['error'=> 'Not product to destroy'], status:500);
         }catch(\Throwable $th){
             return response()->json(data:['error'=>$th->getMessage()],status:500);
         }
     }
-
 }
