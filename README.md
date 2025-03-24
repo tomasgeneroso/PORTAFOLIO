@@ -20,23 +20,20 @@ Hola! Soy **Tomás Generoso**, un desarrollador Front End con pasión por la tec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
----
 
 ### 🌎 Idiomas
 
 - **Español** (Nativo)
 - **Inglés** (C1)
-- **Italiano** (Fluido)
+- **Italiano** (C1)
 - **Alemán** (A1)
 
----
 
 ### 📚 Formación
 
 - **Ingeniería en Sistemas de Información** (hasta 3er año) - Universidad Tecnológica Nacional.
 - Autoaprendizaje diario a través de cursos y documentación especializada.
 
----
 
 ### 💼 Experiencia
 
@@ -45,15 +42,13 @@ Hola! Soy **Tomás Generoso**, un desarrollador Front End con pasión por la tec
 - **Emprendimientos:** UX/UI Designer, Product Owner y otros roles.
 - **IT Trainee** en una empresa de retail, encargado de instalación de hardware/software.
 
----
 
-### 📂 Proyectos Destacados
+### 📂 Proyectos en los que fui parte
 
 🔹 [Coolinary](https://github.com/Zetjen/coolinary) - Creación de un módulo de carrito de compras y refactorización de código.
 
 🔹 [Buchungssystem](https://github.com/Zetjen/buchungssystem) - Desarrollo de un dashboard y optimización de código.
 
----
 
 ### 📌 Repositorios
 
@@ -63,7 +58,6 @@ Hola! Soy **Tomás Generoso**, un desarrollador Front End con pasión por la tec
 - **APP MOBILE.xd** - Diseño de una app en AdobeXD
 - **Pharo3D** - Diseño en Blender3D
 
----
 
 ### 📫 Contacto
 
