@@ -6,7 +6,7 @@ Hello! I am **Tomás Generoso**, a Front-End developer passionate about technolo
 
 ## 🛠️ Technologies & Tools
 
-<p align="left" display="flex" gap="2px">
+<p align="left" display="flex" gap="10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://static.cdnlogo.com/logos/t/58/tailwind-css.svg"alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
