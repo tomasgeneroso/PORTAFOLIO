@@ -1,10 +1,10 @@
 # 🚀 Tomás Generoso | Front End Developer
 
-Hola! Soy **Tomás Generoso**, un desarrollador Front End con pasión por la tecnología y la resolución de problemas. Me destaco por mi perseverancia y dedicación para alcanzar mis objetivos. 
+Hello! I am **Tomás Generoso**, a Front-End developer passionate about technology and problem-solving. I stand out for my perseverance and dedication to achieving my goals.  
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
@@ -18,51 +18,51 @@ Hola! Soy **Tomás Generoso**, un desarrollador Front End con pasión por la tec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachecordova/apachecordova-original.svg" alt="Cordova" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="data:image/svg+xml,%3Csvg width='40px' height='40px' viewBox='0 -5.5 256 256' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' preserveAspectRatio='xMidYMid' fill='%23000000'%3E%3Cg id='SVGRepo_bgCarrier' stroke-width='0'%3E%3C/g%3E%3Cg id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'%3E%3C/g%3E%3Cg id='SVGRepo_iconCarrier'%3E%3Cg%3E%3Cpath d='M232.727273,244.363636 L191.272727,244.363636 L194.181818,209.454545 L173.818182,209.454545 L170.909091,244.363636 L85.0909091,244.363636 L82.1818182,209.454545 L61.8181818,209.454545 L64.7272727,244.363636 L23.2727273,244.363636 L0,93.0909091 L58.1818182,0 L197.818182,0 L256,93.0909091 L232.727273,244.363636 Z M186.181818,46.5454545 L148.778909,46.5454545 L151.272727,64 L104.727273,64 L107.221091,46.5454545 L69.8181818,46.5454545 L46.5454545,93.0909091 L58.1818182,186.181818 L197.818182,186.181818 L209.454545,93.0909091 L186.181818,46.5454545 Z M165.818182,155.287273 C162.605091,155.287273 160,145.597091 160,133.643636 C160,121.690182 162.605091,112 165.818182,112 C169.031273,112 171.636364,121.690182 171.636364,133.643636 C171.636364,145.597091 169.031273,155.287273 165.818182,155.287273 Z M92.3636364,157.090909 C89.1505455,157.090909 86.5454545,147.400727 86.5454545,135.447273 C86.5454545,123.493818 89.1505455,113.803636 92.3636364,113.803636 C95.5767273,113.803636 98.1818182,123.493818 98.1818182,135.447273 C98.1818182,147.400727 95.5767273,157.090909 92.3636364,157.090909 Z' fill='%23444444'%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E" alt="Custom Icon" width="40" height="40"/>
 </p>
 
 
-### 🌎 Idiomas
+### 🌎 Languages
 
-- **Español** (Nativo)
-- **Inglés** (C1)
-- **Italiano** (C1)
-- **Alemán** (A1)
-
-
-### 📚 Formación
-
-- **Ingeniería en Sistemas de Información** (hasta 3er año) - Universidad Tecnológica Nacional.
-- Autoaprendizaje diario a través de cursos y documentación especializada.
+- **Spanish** (Native)
+- **English** (C1)
+- **Italian** (C1)
+- **German** (A1)
 
 
-### 💼 Experiencia
+### 📚 Education
 
-- **Fullstack Developer (Freelance)** en una empresa de Chile.
-- **Analista de Sistemas / Consultor Funcional** en el club deportivo más grande de mi ciudad.
-- **Emprendimientos:** UX/UI Designer, Product Owner y otros roles.
-- **IT Trainee** en una empresa de retail, encargado de instalación de hardware/software.
+- **Information Systems Engineering** (up to 3rd year) - Universidad Tecnológica Nacional.  
+- Self-learning through specialized courses and documentation.
 
 
-### 📂 Proyectos en los que fui parte
+### 💼 Experience
 
-🔹 [Coolinary](https://github.com/Zetjen/coolinary) - Creación de un módulo de carrito de compras y refactorización de código.
-
-🔹 [Buchungssystem](https://github.com/Zetjen/buchungssystem) - Desarrollo de un dashboard y optimización de código.
-
-
-### 📌 Repositorios
-
-- **PROYECTOZAIFO** - Primera web (HTML, CSS, JS)
-- **PROYECTO 1 FIGMA** - Diseño frontend en Figma
-- **EntregaFinal3** - Proyecto final del curso backend (.rar)
-- **APP MOBILE.xd** - Diseño de una app en AdobeXD
-- **Pharo3D** - Diseño en Blender3D
+- **Fullstack Developer (Freelance)** for a company in Chile.  
+- **Systems Analyst / Functional Consultant** at the largest sports club in my city.  
+- **Entrepreneurship:** UX/UI Designer, Product Owner, and other roles.  
+- **IT Trainee** at a retail company, responsible for hardware/software installation.  
 
 
-### 📫 Contacto
+### 📂 Projects I Contributed To
 
-📍 **Web:** [tomasgeneroso.site](https://tomasgeneroso.site) *(En construcción)*  
+🔹 [Coolinary](https://github.com/Zetjen/coolinary) - Developed a shopping cart module and refactored code.  
+
+🔹 [Buchungssystem](https://github.com/Zetjen/buchungssystem) - Built a dashboard and optimized code.  
+
+
+### 📌 Repositories
+
+- **PROYECTOZAIFO** - First website (HTML, CSS, JS)  
+- **PROYECTO 1 FIGMA** - Frontend design in Figma  
+- **EntregaFinal3** - Backend course final project (.rar)  
+- **APP MOBILE.xd** - Mobile app design in AdobeXD  
+- **Pharo3D** - 3D design in Blender  
+
+
+### 📫 Contact
+
+📍 **Website:** [tomasgeneroso.site](https://tomasgeneroso.site) *(Under construction)*  
 📍 **LinkedIn:** [linkedin.com/in/tomas-generoso](https://www.linkedin.com/in/tomas-generoso/)  
 📍 **Email:** tomasgeneroso90@gmail.com  
-📍 **Ciudadanías:** Italiana - Argentina 
-
+📍 **Citizenship:** Italian - Argentine  
