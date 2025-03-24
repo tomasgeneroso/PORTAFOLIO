@@ -19,7 +19,10 @@ Hello! I am **Tomás Generoso**, a Front-End developer passionate about technolo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="padding-right:4px;"/>
   <img src="https://static.cdnlogo.com/logos/c/91/cordova.svg" alt="Cordova" width="40" height="40" style="padding-right:4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" style="padding-right:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" alt="Shopify" width="40" height="40" style="padding-right:4px;"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg](https://www.svgrepo.com/svg/303503/shopify-logo)" alt="Shopify" width="40" height="40" style="padding-right:4px;"/>
+  <script src="
+https://cdn.jsdelivr.net/npm/@shopify/polaris-icons@9.3.1/dist/icons/AdjustIcon.svg.min.js
+"></script>
 </p>
 
 
