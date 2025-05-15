@@ -25,8 +25,6 @@ Hello! I am **Tomás Generoso**, a Front-End developer passionate about technolo
 
 
 
-
-
 ### 🌎 Languages
 
 - **Spanish** (Native)
@@ -56,13 +54,14 @@ Hello! I am **Tomás Generoso**, a Front-End developer passionate about technolo
 🔹 [Buchungssystem](https://github.com/Zetjen/buchungssystem) - Built a dashboard and optimized code.  
 
 
-### 📌 Repositories
+### 📌 Files
+Here's some other projects that haven't repo in my profile.
 
-- **PROYECTOZAIFO** - First website (HTML, CSS, JS)  
+- **ZAIFO** - First website (HTML, CSS, JS)  
 - **PROYECTO 1 FIGMA** - Frontend design in Figma  
-- **EntregaFinal3** - Backend course final project (.rar)  
 - **APP MOBILE.xd** - Mobile app design in AdobeXD  
-- **Pharo3D** - 3D design in Blender  
+- **Pharo3D** - 3D design in Blender
+- **mateworldAPI.yaml** - Practicing YAML
 
 
 ### 📫 Contact
