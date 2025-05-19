@@ -62,6 +62,7 @@ Here's some other projects that haven't repo in my profile.
 - **APP MOBILE.xd** - Mobile app design in AdobeXD  
 - **Pharo3D** - 3D design in Blender
 - **mateworldAPI.yaml** - Practicing YAML
+- **emailTemplates.html** Email templates for confirmation of service in HTML,CSS,JAVASCRIPT
 
 
 ### 📫 Contact
