@@ -59,7 +59,7 @@ Here's some other projects that haven't repo in my profile.
 
 - **ZAIFO** - First website (HTML, CSS, JS)  
 - **PROYECTO 1 FIGMA** - Frontend design in Figma  
-- **APP MOBILE.xd** - Mobile app design in AdobeXD  
+- **APP MOBILE.xd** - Mobile app design in AdobeXD - Figma version (https://www.figma.com/design/aIwv2WiEW9kuR3xW5FVZk4/APPMOBILE-DO-Design?node-id=1-2&t=xqelHoEJXqLkvzDM-1) 
 - **Pharo3D** - 3D design in Blender
 - **mateworldAPI.yaml** - Practicing YAML
 - **emailTemplates.html** Email templates for confirmation of service in HTML,CSS,JAVASCRIPT
